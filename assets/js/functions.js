@@ -3,7 +3,7 @@ $(document).ready(function() {
     /*animation on windows load*/
     $('body').animate({
         opacity: 1
-    }, 'slow');
+    }, 'fast');
 
 
     var pContainerHeight = $('.page-wrapper').height();
