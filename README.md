@@ -1,2 +1,2 @@
-# csszengardenV2.0
-https://uttammahat.github.io/csszengardenV2.0
+# csszengarden
+https://uttammahat.github.io/csszengardenV2.0/
